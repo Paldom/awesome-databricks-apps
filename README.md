@@ -1,4 +1,4 @@
-# Awesome Databricks Apps <!-- Can be published after 30 days [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
+# Awesome Databricks Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome samples, starter projects, use-cases, software and resources for building, shipping and operating Databricks Apps.
 
