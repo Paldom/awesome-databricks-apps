@@ -88,6 +88,7 @@ Example applications showcasing specific features and capabilities.
 - [Genie Voice API](https://github.com/Databricks-BR/genie-voice-api) - Interact with Genie via text or voice with optional RAG, built with FastAPI and React.
 - [Exploring Code with Apps](https://github.com/databricks-industry-solutions/exploring-code-with-databricks-apps) - Example showing how to explore and summarize codebases using a Databricks App UI.
 - [Engineering Recommendation Search](https://github.com/res-ds/eng-rec-search) - RAG search app with vector search and Streamlit UI, plus DAB‑based jobs.
+- [Lakebase + React + FastAPI + Syned table sample App](https://github.com/databricks-solutions/databricks-dab-examples/tree/main/knowledge-base/app-react-lakebase) - Example Databricks App using React, FastAPI, Lakebase synced tables, and a Databricks Asset Bundle to power an NYC taxi analytics dashboard.
 - [Databricks Demos (Japanese)](https://github.com/komae5519pv/komae_dbdemos) - Collection of Databricks demo resources including Genie-Apps integrations.
 
 ## Starter Repositories
