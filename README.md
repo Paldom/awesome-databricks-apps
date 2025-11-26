@@ -122,7 +122,7 @@ Industry-specific and use-case focused solutions.
 
 - [On‑Behalf‑Of (OBO) User Auth for Agents/Apps](https://docs.databricks.com/aws/en/generative-ai/agent-framework/authenticate-on-behalf-of-user) - Run with end‑user permissions.
 - [Databricks Genie](https://docs.databricks.com/en/genie/index.html) - Natural language interface for data exploration.
-- [Agent Bricks](https://docs.databricks.com/aws/en/generative-ai/agent-bricks/) - Agent Bricks simplifies building domain-specific AI agents, letting users focus on problems, data, and metrics instead of implementation.
+- [Agent Bricks](https://docs.databricks.com/aws/en/generative-ai/agent-bricks/) - Simplifies building domain-specific AI agents, letting users focus on problems, data, and metrics instead of implementation.
 - [Unity Catalog](https://docs.databricks.com/en/data-governance/unity-catalog/index.html) - Unified governance for data and AI.
 - [Lakeflow Jobs](https://docs.databricks.com/aws/en/jobs/) - Schedule and orchestrate multi‑task data/ML workflows. 
 - [Mosaic AI Model Serving](https://docs.databricks.com/aws/en/machine-learning/model-serving/) - Deploy and query models on serverless endpoints.  
@@ -155,6 +155,7 @@ Industry-specific and use-case focused solutions.
 - [Rapid Prototyping with n8n](https://medium.com/@AI-on-Databricks/rapid-prototyping-ai-systems-with-n8n-in-databricks-182ca146a26a) - Integrating n8n for visual orchestration of agents and MCP tools.
 - [Multi-Agent Supervisor Application](https://medium.com/@kaustavpaul-007/building-a-multi-agent-supervisor-application-on-databricks-data-intelligence-platform-f696a4586572) - Tutorial on multi‑agent coordination using Agent Bricks.
 - [Building an AI Application with Databricks Apps in 30 Days](https://hiflylabs.com/blog/2025/01/10/build-applications-on-databricks-apps) - Case study on building a production-ready AI app on Databricks Apps, covering architecture choices, CI/CD and scaling strategies.
+- [How to Build Production-Ready Data and AI Apps with Databricks Apps and Lakebase](https://www.databricks.com/blog/how-build-production-ready-data-and-ai-apps-databricks-apps-and-lakebase) - An end-to-end walkthrough for building a production Databricks App with React, FastAPI, Lakebase synced tables, and Databricks Asset Bundles.
 - [Databricks Resources Collection](https://github.com/leighrobertson512/databricks_resources) - Curated links and examples for Databricks learning.
 
 ### Use Cases
