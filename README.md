@@ -147,6 +147,7 @@ Industry-specific and use-case focused solutions.
 - [Secrets CLI](https://docs.databricks.com/aws/en/dev-tools/cli/reference/secrets-commands) - CLI for secret scopes and permissions.  
 - [Work with Files in Volumes](https://docs.databricks.com/aws/en/volumes/volume-files) - Upload, browse, and create tables from files.
 - [MLflow](https://mlflow.org/) - ML lifecycle management platform.
+- [apx](https://github.com/databricks-solutions/apx) - Toolkit and CLI for scaffolding, developing, and deploying Databricks Apps with a FastAPI + React stack, uv/bun tooling, and AI-assistant-friendly MCP integration.
 
 ### Tutorials, Guides & Learning Materials
 
