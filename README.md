@@ -102,6 +102,7 @@ Templates and boilerplates to kickstart your Databricks Apps development.
 - [Simple Chatbot App](https://github.com/honnuanand/databricks-chatbot-app) - Simple chatbot example for querying data or documents.
 - [Databricks Asset Bundles Example](https://github.com/DavidMorton/databricks-dab-example) - Minimal DAB skeleton that deploys a Databricks App.
 - [Databricks DAB Demo](https://github.com/pdemeulenaer/databricks-dab-demo) - Demonstration of Databricks Asset Bundles structure and deployment.
+- [Databricks Apps Streamlit Starter (for AI assisted coding)](https://github.com/Paldom/databricks-apps-streamlit-vibe-coding-starter) - Production-ready Streamlit starter for Databricks Apps, tuned for AI-assisted coding with CLAUDE.md context, MCP tools, and deployment guidance.
 
 ## Solution Accelerators
 
